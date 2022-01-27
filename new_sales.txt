@@ -1,0 +1,12 @@
+9139 Ann Peterson;
+850 Andy V. Garcia;
+1235 Mary Johnson;
+3120 David T. Ng;
+7850 John Lee;
+2300 Lucy A. Smith;
+15000 Dan Nguyen;
+12000 Sue K. Warren;
+10000 Steve Chen;
+5001 Livingston;
+4999 Tina Queen;
+1000 Jonathan Edwards;
